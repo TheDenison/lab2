@@ -1,0 +1,5 @@
+﻿  lab2.cpp
+c:\users\денис\source\repos\lab2\lab2\lab2.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\денис\source\repos\lab2\lab2\lab2.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\денис\source\repos\lab2\lab2\lab2.cpp(2): note: использование предварительно скомпилированного заголовка
+  lab2.vcxproj -> C:\Users\Денис\source\repos\lab2\Debug\lab2.exe
